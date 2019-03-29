@@ -1,0 +1,53 @@
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.deps.json
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.runtimeconfig.json
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.runtimeconfig.dev.json
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.dll
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.pdb
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csprojResolveAssemblyReference.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.AssemblyInfoInputs.cache
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.AssemblyInfo.cs
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.dll
+C:\Users\Eugene\Documents\Visual Studio 2017\Projects\ASP.NET Core\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.pdb
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.deps.json
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.runtimeconfig.json
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.runtimeconfig.dev.json
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.dll
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.pdb
+D:\univer\6 sem\tok\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csproj.CoreCompileInputs.cache
+D:\univer\6 sem\tok\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.AssemblyInfoInputs.cache
+D:\univer\6 sem\tok\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.AssemblyInfo.cs
+D:\univer\6 sem\tok\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.dll
+D:\univer\6 sem\tok\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.pdb
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Client.Models.dll
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Model.Converters.dll
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Models.dll
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Client.Models.pdb
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Model.Converters.pdb
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Models.pdb
+D:\univer\6 sem\tok\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csprojAssemblyReference.cache
+D:\univer\6 sem\tok\TokenApp\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csproj.CopyComplete
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Client.Models.dll.config
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Model.Converters.dll.config
+D:\univer\6 sem\tok\TokenApp\TokenApp\bin\Debug\netcoreapp2.0\Models.dll.config
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.deps.json
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.runtimeconfig.json
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.runtimeconfig.dev.json
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.dll
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\TokenApp.pdb
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Client.Models.dll
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Model.Converters.dll
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Models.dll
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Client.Models.pdb
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Client.Models.dll.config
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Model.Converters.pdb
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Model.Converters.dll.config
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Models.pdb
+D:\univer\6 sem\tok\TodoList\TokenApp\bin\Debug\netcoreapp2.0\Models.dll.config
+D:\univer\6 sem\tok\TodoList\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csprojAssemblyReference.cache
+D:\univer\6 sem\tok\TodoList\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csproj.CoreCompileInputs.cache
+D:\univer\6 sem\tok\TodoList\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.AssemblyInfoInputs.cache
+D:\univer\6 sem\tok\TodoList\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.AssemblyInfo.cs
+D:\univer\6 sem\tok\TodoList\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.csproj.CopyComplete
+D:\univer\6 sem\tok\TodoList\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.dll
+D:\univer\6 sem\tok\TodoList\TokenApp\obj\Debug\netcoreapp2.0\TokenApp.pdb

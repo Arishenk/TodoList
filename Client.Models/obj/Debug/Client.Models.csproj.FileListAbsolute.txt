@@ -1,0 +1,17 @@
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\Client.Models.dll
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\Client.Models.pdb
+D:\univer\6 sem\tot\todoList\Client.Models\obj\Debug\Client.Models.csproj.CoreCompileInputs.cache
+D:\univer\6 sem\tot\todoList\Client.Models\obj\Debug\Client.Models.dll
+D:\univer\6 sem\tot\todoList\Client.Models\obj\Debug\Client.Models.pdb
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\Client.Models.dll.config
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\EntityFramework.dll
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\System.Data.SQLite.dll
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\System.Data.SQLite.EF6.dll
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\System.Data.SQLite.Linq.dll
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\EntityFramework.xml
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\System.Data.SQLite.xml
+D:\univer\6 sem\tot\todoList\Client.Models\bin\Debug\System.Data.SQLite.dll.config
+D:\univer\6 sem\tot\todoList\Client.Models\obj\Debug\Client.Models.csprojAssemblyReference.cache
+D:\univer\6 sem\tot\todoList\Client.Models\obj\Debug\Client.Models.csproj.CopyComplete
